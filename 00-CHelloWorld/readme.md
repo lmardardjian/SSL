@@ -1,4 +1,4 @@
 # SSL  
-A. Compilador seleccionado  
-B. Versión del compilador  
-C. Versión de C que el compilador compila
+A. MinGW-w64 (a través de MSYS2)
+B. GCC 14.2.0  
+C. C23
