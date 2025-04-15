@@ -1,9 +1,9 @@
 # SSL  
-A. MinGW-w64 (a través de MSYS2)  
+A. MinGW-w64  
 B. GCC 14.2.0  
 C. C23
 
-## Obtención de la información del compilador.
+### Obtención de la información del compilador.
 -  El compilador y la versión lo averigüe a través de escribir en la terminal el comando        ¨gcc --version¨
 -  La versión de C que compila el compilador fue a través de la edición del archivo tasks.json, le ingrese el siguiente código:
   ~~~
